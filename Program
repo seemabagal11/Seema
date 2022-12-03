@@ -1,0 +1,45 @@
+public class planets{
+
+public static void main(String[]args){
+
+String s1=("Mercury","Venus","Earth","Jupitor","Saturn","Uranus")
+
+String s2=("Carbon Dioxide","Nitrogen","Nitrogen", "Oxygen","Hydrogen"," Helium","Hydrogen","Helium","Hydrogen","Helium","Hydrogen","Helium","Methane")
+
+s1=s2.split(s1);
+
+HashMap<String,Intger>Smap=new HashMap<String,Intger>();
+
+for(String str1:s1)
+
+if(smap.containsKey(srt1)+1);
+
+Smap.put(str1,1);
+
+set<String>Key:Keyset();
+
+for(String.Keys){
+
+if(Smap.get(key)>1)
+
+System.out.printnl(key+":"+Smap.get(key));
+}
+
+
+
+
+
+
+
+}
+
+
+
+}
+
+
+
+
+
+
+}
